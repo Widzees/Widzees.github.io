@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #F3525A;
+    --primary: #f1c71f;
     --secondary: #F6F6F6;
     --light: #FFFFFF;
     --dark: #152440;
@@ -9,13 +9,13 @@
 h1,
 h2,
 .font-weight-bold {
-    font-weight: 700 !important;
+    font-weight: 600 !important;
 }
 
 h3,
 h4,
 .font-weight-semi-bold {
-    font-weight: 600 !important;
+    font-weight: 500 !important;
 }
 
 h5,
