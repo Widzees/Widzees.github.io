@@ -1,6 +1,10 @@
 /********** Template CSS **********/
 :root {
+<<<<<<< HEAD
     --primary: #f1421f;
+=======
+    --primary: #f1c71f;
+>>>>>>> b047d9199fc9bad7cc47cc82204f0ac774363190
     --secondary: #F6F6F6;
     --light: #FFFFFF;
     --dark: #152440;
